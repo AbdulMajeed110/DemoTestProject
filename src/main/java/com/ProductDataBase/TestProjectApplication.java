@@ -41,10 +41,9 @@ public class TestProjectApplication {
 //	   java.util.List<ProductEntity> product5 = java.util.List.of(product1, product2);
 //	   
 //	   Iterable<ProductEntity> product6 = ProductRepository.saveAll(product5);
-//	   product6.forEach(users->{
+//	   product6.forEach(users->{ 
 //		   System.out.println(users);
 //	   });
-	   
 	   
 	}
 
